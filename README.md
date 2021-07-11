@@ -8,4 +8,4 @@ Installation: Open .rar file and extract flags folder to the directory: common\V
 
 Note: recommended to have a backup for your flag folder in case you want to revert back to normal flags.
 
-(possible addition for gfm version in the future)
+(possible addition for GFM version in the future)
