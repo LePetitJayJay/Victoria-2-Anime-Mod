@@ -1,4 +1,4 @@
-# Vicky-2-Anime-Mod
+# Vicky-2-Anime-Flags-Mod-for-HFM
 
 For HFM, technically can work elsewhere though non-square flags will make them less visible and possibly some problems with differing tags.
 
