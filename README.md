@@ -1,6 +1,6 @@
 # Vicky-2-Anime-Mod
 
-v0.1.0
+v1.0
 
 For HFM, technically can work elsewhere though non-square flags will make them less visible and possibly some problems with differing tags.
 
