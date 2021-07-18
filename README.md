@@ -9,3 +9,5 @@ Note: recommended to have a backup for your flag folder in case you want to reve
 Check HMPS github for the HMPS version.
 
 (possible addition for GFM version in the future)
+
+For questions I'm available on the modding server: https://discord.gg/EbY7qaA
