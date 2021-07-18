@@ -6,4 +6,6 @@ Installation: Open .rar file and extract flags folder to the directory: common\V
 
 Note: recommended to have a backup for your flag folder in case you want to revert back to normal flags.
 
+Check HMPS github for the HMPS version.
+
 (possible addition for GFM version in the future)
