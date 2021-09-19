@@ -14,4 +14,6 @@ Check HMPS github for the HMPS version.
 
 (possible addition for GFM version in the future)
 
+NOTE: in case of anime flags staying when the submod isn't selected on GFM, delete flags folder on Documents\Paradox Interactive\Victoria II\GFM\gfx. 
+ 
 For questions I'm available on the modding server: https://discord.gg/EbY7qaA
