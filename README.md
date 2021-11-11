@@ -8,7 +8,9 @@ HFM version: extract both the flags and the interface folders to common\Victoria
 
 GFM version: extract GFM Animega folder (the one inside the folder, which is located together with the .mod file) and the .mod file to common\Victoria 2\mod.
 
-Note: recommended to have a backup for your flag folder in case you want to revert back to normal flags.
+Note: 
+1. recommended to have a backup for your flag folder in case you want to revert back to normal flags.
+2. If you just want either only the anime flags or potraits then you'll need to only move the needed folders (flags folder for the flags, interface folder for the potraits) to your mod directory.
 
 Check HMPS github for the HMPS version.
 
