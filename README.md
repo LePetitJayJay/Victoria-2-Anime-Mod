@@ -32,4 +32,4 @@ Base HFM github: https://github.com/SighPie/HFM
 
 HFM More Stuff: https://pastebin.com/0WyUJ6cB
 
-*I also made my own addition GFM Music Sub Mod: https://github.com/LePetitJayJay/Jay-GFM-Music-Sub-Mod
+*I also made my own addition to GFM's Music Sub Mod: https://github.com/LePetitJayJay/Jay-GFM-Music-Sub-Mod
