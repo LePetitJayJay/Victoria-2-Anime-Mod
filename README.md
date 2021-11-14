@@ -28,4 +28,6 @@ HMPS github: https://github.com/GeneralTownes/HFM_MP_Series_Master
 
 cc HFM github: https://github.com/moretrim/ccHFM
 
+Base HFM: https://github.com/SighPie/HFM
+
 HFM More Stuff: https://pastebin.com/0WyUJ6cB
