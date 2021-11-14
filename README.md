@@ -20,6 +20,8 @@ For questions I'm available on the modding server: https://discord.gg/EbY7qaA
 
 links:
 
+Anime mod backlog discord: https://discord.gg/wcsEXYDs5M
+
 GFM github: https://github.com/Historical-Expansion-Mod/Greater-Flavor-Mod
 
 HMPS github: https://github.com/GeneralTownes/HFM_MP_Series_Master
