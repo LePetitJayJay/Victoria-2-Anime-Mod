@@ -2,11 +2,7 @@
 
 For (cc)HFM or GFM, technically can work elsewhere though non-square flags will make them less visible and possibly some problems with differing tags.
 
-Installation: 
-
-HFM version: extract HFM Animega folder (the one inside the folder, which is located together with the .mod file) and the .mod file to common\Victoria 2\mod. If you have More Stuff, you can put the flags folder inside the More Stuff folder to common\Victoria 2\mod\HFM Animega\gfx
-
-GFM version: extract GFM Animega folder (the one inside the folder, which is located together with the .mod file) and the .mod file to common\Victoria 2\mod.
+Installation: Put the Animega folder and .Mod file to your mod directory on Program Files.
 
 Note:
 1. If you wanna use it on HPM or vanilla or anywhere else (if applicable), apply the HFM version there and it should work fine.
