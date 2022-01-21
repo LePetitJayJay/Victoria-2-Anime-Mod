@@ -1,6 +1,6 @@
 # Vicky-2-Anime-Mod
 
-For (cc)HFM or GFM, technically can work elsewhere though non-square flags will make them less visible and possibly some problems with differing tags.
+For (cc)HFM, GFM, and HMPS, technically can work elsewhere though non-square flags will make them less visible and possibly some problems with differing tags.
 
 Installation: Put the Animega folder and .Mod file to your mod directory on Program Files.
 
