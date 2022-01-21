@@ -5,9 +5,8 @@ For (cc)HFM, GFM, and HMPS, technically can work elsewhere though non-square fla
 Installation: Put the Animega folder and .Mod file to your mod directory on Program Files.
 
 Note:
-1. If you wanna use it on HPM or vanilla or anywhere else (if applicable), apply the HFM version there and it should work fine.
-2. If you just want either only the anime flags or potraits then you'll need to only move the needed folders (flags folder for the flags, interface folder for the potraits) to your mod directory.
-3. Check HMPS github for the HMPS version.
+1. If you just want either only the anime flags or potraits then you'll need to only move the needed folders (flags folder for the flags, interface folder for the potraits) to your mod directory.
+
 
 
 NOTE: in case of anime flags staying when the submod isn't selected on GFM/HFM/elsewhere, delete flags folder on Documents\Paradox Interactive\Victoria II\GFM\gfx or Documents\Paradox Interactive\Victoria II\HFM\gfx. 
@@ -30,7 +29,7 @@ HFM More Stuff: https://pastebin.com/0WyUJ6cB
 
 # CREDITS
 
-Our thanks to the following artists for supplying the source of the most beautiful waifus of this mod!
+Our thanks to the following artists (and more that I didn't manage to find the source of) for supplying the source of the most beautiful waifus of this mod!
 
 Disclaimer: 
 
