@@ -11,7 +11,7 @@ Note:
 
 3. Recommended to use big frame submod for visibility: https://www.moddb.com/games/victoria-2-heart-of-darkness/addons/big-flag-frames-for-victoria-2-304-and-hpm (compatible with GFM and HFM too)
 
-NOTE: in case of anime flags staying when the submod isn't selected on GFM/HFM/elsewhere, delete flags folder on Documents\Paradox Interactive\Victoria II\GFM\gfx or Documents\Paradox Interactive\Victoria II\HFM\gfx. 
+4. in case of anime flags staying when the submod isn't selected on GFM/HFM/elsewhere, delete flags folder on Documents\Paradox Interactive\Victoria II\GFM\gfx or Documents\Paradox Interactive\Victoria II\HFM\gfx. 
  
 For questions I'm available on the modding server (https://discord.gg/EbY7qaA, idk but for some reason any message sent to the channel there gets deleted tho) or anime backlog server (https://discord.gg/wcsEXYDs5M)
 
