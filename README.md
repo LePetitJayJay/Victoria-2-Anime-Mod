@@ -7,15 +7,15 @@ Installation: Put the Animega folder and .Mod file to your mod directory on Prog
 Note:
 1. If you just want either only the anime flags or potraits then you'll need to only move the needed folders (flags folder for the flags, interface folder for the potraits) to your mod directory.
 
+2. NOT compatible with GFM Dynamic Nations submod
 
+3. Recommended to use big frame submod for visibility: https://www.moddb.com/games/victoria-2-heart-of-darkness/addons/big-flag-frames-for-victoria-2-304-and-hpm (compatible with GFM and HFM too)
 
 NOTE: in case of anime flags staying when the submod isn't selected on GFM/HFM/elsewhere, delete flags folder on Documents\Paradox Interactive\Victoria II\GFM\gfx or Documents\Paradox Interactive\Victoria II\HFM\gfx. 
  
-For questions I'm available on the modding server: https://discord.gg/EbY7qaA
+For questions I'm available on the modding server (https://discord.gg/EbY7qaA, idk but for some reason any message sent to the channel there gets deleted tho) or anime backlog server (https://discord.gg/wcsEXYDs5M)
 
 links:
-
-Anime mod backlog discord: https://discord.gg/wcsEXYDs5M
 
 GFM github: https://github.com/Historical-Expansion-Mod/Greater-Flavor-Mod
 
@@ -193,7 +193,6 @@ IVAN: https://www.pixiv.net/en/users/12001531
 
 Ikechi1: https://www.deviantart.com/ikechi1
 
-
 Waifu Universalis/claivin#1718: https://discord.gg/gDRTaZf
 
 砂糖レモン: https://www.pixiv.net/en/users/19026603
@@ -233,3 +232,21 @@ rurudo: https://www.pixiv.net/en/users/25760573
 降旗原: https://www.pixiv.net/en/users/4158005
 
 森倉円: https://www.pixiv.net/en/users/177784
+
+ikustas niR: https://www.pixiv.net/en/users/19419874
+
+HimeYamato: https://www.pixiv.net/en/users/43477471
+
+Matsue CC: https://www.pixiv.net/en/users/16577040
+
+コパル: https://www.pixiv.net/en/users/57302664
+
+irua: https://www.pixiv.net/en/users/484261
+
+OKINO: https://www.pixiv.net/en/users/188915
+
+Bang Seungho: https://www.pixiv.net/en/users/5602501
+
+まるかた: https://www.pixiv.net/en/users/6359
+
+パソ岩: https://www.pixiv.net/en/users/4476004
