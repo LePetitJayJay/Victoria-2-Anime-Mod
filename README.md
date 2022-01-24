@@ -1,6 +1,6 @@
 # Vicky-2-Anime-Mod
 
-For (cc)HFM, GFM, and HMPS, technically can work elsewhere though non-square flags will make them less visible and possibly some problems with differing tags.
+For (cc)HFM, GFM, and HMPS, technically can work on HPM and Vanilla though small round flag frames will make them less visible and some some flag issues that I want to address in the future.
 
 Installation: Put the Animega folder and .Mod file to your mod directory on Program Files.
 
@@ -9,7 +9,7 @@ Note:
 
 2. NOT compatible with GFM Dynamic Nations submod
 
-3. Recommended to use big frame submod for visibility: https://www.moddb.com/games/victoria-2-heart-of-darkness/addons/big-flag-frames-for-victoria-2-304-and-hpm (compatible with GFM and HFM too)
+3. Recommended to use big frame submod for visibility: https://www.moddb.com/games/victoria-2-heart-of-darkness/addons/big-flag-frames-for-victoria-2-304-and-hpm (compatible with HFM and partially with GFM too)
 
 4. in case of anime flags staying when the submod isn't selected on GFM/HFM/elsewhere, delete flags folder on Documents\Paradox Interactive\Victoria II\GFM\gfx or Documents\Paradox Interactive\Victoria II\HFM\gfx. 
  
