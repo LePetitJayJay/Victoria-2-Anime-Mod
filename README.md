@@ -1,15 +1,18 @@
 # Vicky-2-Anime-Mod
 
-For (cc)HFM, GFM, and HMPS, technically can work on HPM and Vanilla though small round flag frames will make them less visible and some some flag issues that I want to address in the future.
+v2.0
+With the latest major update nearly all nations should have a waifu flag.
+This submod should now work perfectly with GFM, (cc)HFM, HMPS, HPM, and Vanilla.
+For HFM, HPM, and Vanilla, turn on the corresponding patches as well when launching so that all flags appear correctly.
 
-Installation: Put the Animega folder and .Mod file to your mod directory on Program Files.
+Installation: Put the Animega folders and .Mod file to your mod directory on Program Files. Don't forget to delete gfx folder on Documents before launching the submod for the first time (with the corresponding mod, if any used).
 
 Note:
 1. If you just want either only the anime flags or potraits then you'll need to only move the needed folders (flags folder for the flags, interface folder for the potraits) to your mod directory.
 
 2. NOT compatible with GFM Dynamic Nations submod
 
-3. Recommended to use big frame submod for visibility: https://www.moddb.com/games/victoria-2-heart-of-darkness/addons/big-flag-frames-for-victoria-2-304-and-hpm (compatible with HFM and partially with GFM too)
+3. Recommended to use big frame submod for visibility: https://www.moddb.com/games/victoria-2-heart-of-darkness/addons/big-flag-frames-for-victoria-2-304-and-hpm (this submod somehow screws up religion column on pop tab, only side effect)
 
 4. in case of anime flags staying when the submod isn't selected on GFM/HFM/elsewhere, delete flags folder on Documents\Paradox Interactive\Victoria II\GFM\gfx or Documents\Paradox Interactive\Victoria II\HFM\gfx. 
  
@@ -250,3 +253,43 @@ Bang Seungho: https://www.pixiv.net/en/users/5602501
 まるかた: https://www.pixiv.net/en/users/6359
 
 パソ岩: https://www.pixiv.net/en/users/4476004
+
+まるかた: https://www.pixiv.net/en/users/6359
+
+パソ岩: https://www.pixiv.net/en/users/4476004
+
+かずま氏: https://www.pixiv.net/en/users/120583
+
+トシヤ: https://www.pixiv.net/en/users/15045
+
+-: https://www.pixiv.net/en/users/19863422
+
+はつ: https://www.pixiv.net/en/users/5822
+
+SenatorSnowBear: https://www.pixiv.net/en/users/34797919
+
+嘎唄 (ガーベイ): https://www.pixiv.net/en/users/17684897
+
+Hishino: https://www.pixiv.net/en/users/38863066
+
+雪霜t: https://www.pixiv.net/en/users/3153998
+
+Mushstone: https://www.pixiv.net/en/users/479287
+
+八ツ橋: https://www.pixiv.net/en/users/20024863
+
+やつ: https://www.pixiv.net/en/users/5746974
+
+冥月(參魂): https://www.pixiv.net/en/users/7385201
+
+Tochalyan_86: https://www.pixiv.net/en/users/30844622
+
+Aoi :heart:∩(´∀｀∩):  https://www.pixiv.net/en/users/948487
+
+COIL@アトリエコイル: https://www.pixiv.net/en/users/15461081
+
+EP: https://www.pixiv.net/en/users/33482811
+
+望之: https://www.pixiv.net/en/users/7038177
+
+じゅういち: https://www.pixiv.net/en/users/2505384
