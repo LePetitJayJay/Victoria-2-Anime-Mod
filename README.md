@@ -351,3 +351,51 @@ peckeronie: https://www.pixiv.net/en/users/64838754
 Nachoz: https://www.pixiv.net/en/users/267015
 
 Syaindra_giri: https://www.pixiv.net/en/users/26337386
+
+Letz: https://www.pixiv.net/en/users/6312465
+
+エルトリア: https://www.pixiv.net/en/users/5831713
+
+DarkpulseGG: https://www.pixiv.net/en/users/7674719
+
+藤原ﾉこーりー : https://www.pixiv.net/en/users/5643976 
+
+T-oyama: https://www.pixiv.net/en/users/27610182
+
+英エイスト: https://www.pixiv.net/en/users/4695872
+
+Dolores Gear: https://www.pixiv.net/en/users/50307500
+
+栗子rsc: https://www.pixiv.net/en/users/63636963
+
+かりーにん: https://www.pixiv.net/en/users/58960927
+
+朱耶式: https://www.pixiv.net/en/users/21192161
+
+Capt. Canguro: https://www.pixiv.net/en/users/163408
+
+MacReval: https://www.pixiv.net/en/users/14409613
+
+ほしみやましろ。: https://www.pixiv.net/en/users/3580504
+
+お茶目: https://www.pixiv.net/en/users/36743277
+
+初空あさひ: https://www.pixiv.net/en/users/9720350
+
+此时年少: https://www.pixiv.net/en/users/4953002
+
+桃の缶詰: https://www.pixiv.net/en/users/223817
+
+ディーツー: https://www.pixiv.net/en/users/4365043
+
+Empew: https://www.pixiv.net/en/users/1248336
+
+さようすけ: https://www.pixiv.net/en/users/720251
+
+黄鳩: https://www.pixiv.net/en/users/45929
+
+Sour: https://www.pixiv.net/en/users/5414630
+
+シロサト: https://www.pixiv.net/en/users/358646
+
+ばけねこ: https://twitter.com/painter_knife
