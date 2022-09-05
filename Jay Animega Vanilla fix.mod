@@ -1,5 +1,5 @@
-name = "Jay Animega Vanilla patch"
+name = "Vanilla Animega Flag patch"
 path = "mod/Jay Animega Vanilla fix"
 replace_path = "gfx"
-replace_path = "mod/Jay Animega/gfx"
-dependencies = { "Jay Animega" }
+replace_path = "mod/Jay Animega Flag/gfx"
+dependencies = { "Jay Animega Flags" }
