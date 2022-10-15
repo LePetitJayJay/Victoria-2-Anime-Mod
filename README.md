@@ -1,9 +1,13 @@
 # Vicky-2-Anime-Mod
 
 v2.1
+
 With the latest major update nearly all nations should have a waifu flag.
+
 There are two main parts of the mod, Animega flags should work with GFM, (cc)HFM, HMPS, HPM, and Vanilla. GFM flags are currently getting reworked due to flag and tag changes in GFM.
-The Anime leaders (+loading screen) should work with Vanilla, HPM, HFM, GFM, TGC, and DoD, though the loading screen won't be replaced for GFM, TGC, or DoD.
+
+The Anime leaders (+loading screen) should work with Vanilla, HPM, HFM, GFM, TGC, and DoD.
+
 For GFM, HFM, HPM, and Vanilla, turn on the corresponding patches as well when launching the Animega flags so that all flags appear correctly.
 
 Installation: Put the Animega folders and .Mod file to your mod directory on Program Files.
@@ -11,7 +15,7 @@ Installation: Put the Animega folders and .Mod file to your mod directory on Pro
 Note:
 1. There are now two main parts of the mod, anime leaders and anime flags. the Animega leader converts all leader portraits to anime and also adds anime loading screen and pop interface (will be added soon).
 
-2. The Animega leader should be compatible with TGC and other mods as well, though it won't replace the loading screen for DoD, GFM and TGC.
+2. The Animega leader can be compatible with any mod, you can edit the .mod folder to make it compatible with more mods.
  
 3. The Animega flags will turn all flags to waifu flags, to use this mod delete gfx folder on Documents before launching this submod. After launching it once, the waifu flags will stay.
 
