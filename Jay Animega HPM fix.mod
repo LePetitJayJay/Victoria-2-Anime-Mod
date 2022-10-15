@@ -1,4 +1,4 @@
-name = "HPM Animega Flag patch"
+name = "Jay Animega Flag HPM patch"
 path = "mod/Jay Animega HPM fix"
 replace_path = "mod/HPM/gfx"
 replace_path = "mod/Jay Animega Flag/gfx"

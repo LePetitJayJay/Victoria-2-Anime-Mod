@@ -1,24 +1,32 @@
 # Vicky-2-Anime-Mod
 
-v2.0
+v2.1
 With the latest major update nearly all nations should have a waifu flag.
-This submod should now work perfectly with GFM, (cc)HFM, HMPS, HPM, and Vanilla.
-For HFM, HPM, and Vanilla, turn on the corresponding patches as well when launching so that all flags appear correctly.
+There are two main parts of the mod, Animega flags should work with GFM, (cc)HFM, HMPS, HPM, and Vanilla. GFM flags are currently getting reworked due to flag and tag changes in GFM.
+The Anime leaders (+loading screen) should work with Vanilla, HPM, HFM, GFM, TGC, and DoD, though the loading screen won't be replaced for GFM, TGC, or DoD.
+For GFM, HFM, HPM, and Vanilla, turn on the corresponding patches as well when launching the Animega flags so that all flags appear correctly.
 
-Installation: Put the Animega folders and .Mod file to your mod directory on Program Files. Don't forget to delete gfx folder on Documents before launching the submod for the first time (with the corresponding mod, if any used).
+Installation: Put the Animega folders and .Mod file to your mod directory on Program Files.
 
 Note:
-1. If you just want either only the anime flags or potraits then you'll need to only move the needed folders (flags folder for the flags, interface folder for the potraits) to your mod directory.
+1. There are now two main parts of the mod, anime leaders and anime flags. the Animega leader converts all leader portraits to anime and also adds anime loading screen and pop interface (will be added soon).
 
-2. NOT compatible with GFM Dynamic Nations submod
-
-3. Recommended to use big frame submod for visibility: https://www.moddb.com/games/victoria-2-heart-of-darkness/addons/big-flag-frames-for-victoria-2-304-and-hpm (this submod somehow screws up religion column on pop tab, only side effect)
-
-4. in case of anime flags staying when the submod isn't selected on GFM/HFM/elsewhere, delete flags folder on Documents\Paradox Interactive\Victoria II\GFM\gfx or Documents\Paradox Interactive\Victoria II\HFM\gfx. 
+2. The Animega leader should be compatible with TGC and other mods as well, though it won't replace the loading screen for DoD, GFM and TGC.
  
-For questions I'm available on the modding server (https://discord.gg/EbY7qaA, idk but for some reason any message sent to the channel there gets deleted tho) or anime backlog server (https://discord.gg/wcsEXYDs5M)
+3. The Animega flags will turn all flags to waifu flags, to use this mod delete gfx folder on Documents before launching this submod. After launching it once, the waifu flags will stay.
 
-links:
+4. There are flag patches for Vanilla, HPM, HFM, and GFM because each one use differing flags and tags for countries. Tick on the main Animega flag mod and the corresponding patches when launching so as to prevent flags showing wrongly. For example, for HPM you will need to tick the Animega flags and HPM flag patch so that the flags will show correctly ingame.
+
+5. If you wish to return to default flags, delete flags folder on Documents if you want to reset the flag cache. 
+
+6. GFM Animega flags is NOT compatible with GFM Dynamic Nations submod
+
+7. For Animega flags, it's recommended to use big frame submod for better visibility: https://www.moddb.com/games/victoria-2-heart-of-darkness/addons/big-flag-frames-for-victoria-2-304-and-hpm (working fine tho it may screw up your religion column on pop tab)
+
+Coming soon: DoD Animega flags and AoE Animega leaders 
+For questions I'm available on the modding server (https://discord.gg/EbY7qaA) or anime backlog server (https://discord.gg/wcsEXYDs5M)
+
+Related mod links:
 
 GFM github: https://github.com/Historical-Expansion-Mod/Greater-Flavor-Mod
 
@@ -32,11 +40,19 @@ HFM More Stuff: https://pastebin.com/0WyUJ6cB
 
 # CREDITS
 
+Arts used for the loading screen:
+https://www.pixiv.net/en/artworks/70957104
+https://www.pixiv.net/en/artworks/79708505
+https://www.pixiv.net/en/artworks/81199987
+https://www.pixiv.net/en/artworks/78261691
+https://www.pixiv.net/en/artworks/71595139
+https://www.pixiv.net/en/artworks/82148110
+
 Our thanks to the following artists (and more that I didn't manage to find the source of) for supplying the source of the most beautiful waifus of this mod!
 
 Disclaimer: 
 
-- WARNING! Some of these artists may have NSFW art on their pages 
+- WARNING! Some of these artists may have NSFW art on their pages though for the most part I took my sources from military/history artists, open at your own risk.
 
 - This list isn't complete, please contact me in case that you find a problem with this list.
 
