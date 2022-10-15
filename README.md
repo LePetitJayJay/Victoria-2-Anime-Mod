@@ -24,6 +24,7 @@ Note:
 7. For Animega flags, it's recommended to use big frame submod for better visibility: https://www.moddb.com/games/victoria-2-heart-of-darkness/addons/big-flag-frames-for-victoria-2-304-and-hpm (working fine tho it may screw up your religion column on pop tab)
 
 Coming soon: DoD Animega flags and AoE Animega leaders 
+
 For questions I'm available on the modding server (https://discord.gg/EbY7qaA) or anime backlog server (https://discord.gg/wcsEXYDs5M)
 
 Related mod links:
