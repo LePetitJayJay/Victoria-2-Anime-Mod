@@ -42,11 +42,17 @@ HFM More Stuff: https://pastebin.com/0WyUJ6cB
 # CREDITS
 
 Arts used for the loading screen:
+
 https://www.pixiv.net/en/artworks/70957104
+
 https://www.pixiv.net/en/artworks/79708505
+
 https://www.pixiv.net/en/artworks/81199987
+
 https://www.pixiv.net/en/artworks/78261691
+
 https://www.pixiv.net/en/artworks/71595139
+
 https://www.pixiv.net/en/artworks/82148110
 
 Our thanks to the following artists (and more that I didn't manage to find the source of) for supplying the source of the most beautiful waifus of this mod!
