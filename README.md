@@ -1,14 +1,16 @@
 # Vicky-2-Anime-Mod
 
-v2.1
+v2.2
 
 With the latest major update nearly all nations should have a waifu flag.
 
-There are two main parts of the mod, Animega flags should work with GFM, (cc)HFM, HMPS, HPM, and Vanilla. GFM flags are currently getting reworked due to flag and tag changes in GFM.
+There are several parts to this mod, Animega flags should work with GFM, (cc)HFM, HMPS, HPM, and Vanilla. GFM flags will be updated again when their colonial flags rework is done.
 
-The Anime leaders (+loading screen) should work with Vanilla, HPM, HFM, GFM, TGC, and DoD.
+The Anime leaders (+loading screen) should work with Vanilla, HPM, HFM, GFM, and TGC.
 
 For GFM, HFM, HPM, and Vanilla, turn on the corresponding patches as well when launching the Animega flags so that all flags appear correctly.
+
+New additions are standalone DoD and AoE versions, so you only need to run the mod + the corresponding anime submod for these two, e.g. Divergences of Darkness + DoD Animega.
 
 Installation: Put the Animega folders and .Mod file to your mod directory on Program Files.
 
@@ -17,17 +19,17 @@ Note:
 
 2. The Animega leader can be compatible with any mod, you can edit the .mod folder to make it compatible with more mods.
  
-3. The Animega flags will turn all flags to waifu flags, to use this mod delete gfx folder on Documents before launching this submod. After launching it once, the waifu flags will stay.
+3. The Animega flags will turn all flags to waifu flags, to use this mod delete gfx folder on Documents before launching this submod.
 
-4. There are flag patches for Vanilla, HPM, HFM, and GFM because each one use differing flags and tags for countries. Tick on the main Animega flag mod and the corresponding patches when launching so as to prevent flags showing wrongly. For example, for HPM you will need to tick the Animega flags and HPM flag patch so that the flags will show correctly ingame.
+4. There are flag patches for Vanilla, HPM, HFM, and GFM because each one use differing flags and tags for several countries. 
+Tick on the main Animega flag mod and the corresponding patches when launching so as to prevent flags showing wrongly,
+e.g. for HPM you will need to tick the Animega flags and HPM flag patch so that the flags will show correctly ingame.
 
-5. If you wish to return to default flags, delete flags folder on Documents if you want to reset the flag cache. 
+5. If you wish to return to default flags, delete the flags folder on Documents if you want to reset the flag cache. 
 
 6. GFM Animega flags is NOT compatible with GFM Dynamic Nations submod
 
 7. For Animega flags, it's recommended to use big frame submod for better visibility: https://www.moddb.com/games/victoria-2-heart-of-darkness/addons/big-flag-frames-for-victoria-2-304-and-hpm (working fine tho it may screw up your religion column on pop tab)
-
-Coming soon: DoD Animega flags and AoE Animega leaders 
 
 For questions I'm available on the modding server (https://discord.gg/EbY7qaA) or anime backlog server (https://discord.gg/wcsEXYDs5M)
 
@@ -59,11 +61,11 @@ https://www.pixiv.net/en/artworks/71595139
 
 https://www.pixiv.net/en/artworks/82148110
 
-Our thanks to the following artists (and more that I didn't manage to find the source of) for supplying the source of the most beautiful waifus of this mod!
+Our thanks to the following artists (and more that I didn't manage to find the source of) for supplying the source of the most beautiful waifus for this mod!
 
 Disclaimer: 
 
-- WARNING! Some of these artists may have NSFW art on their pages though for the most part I took my sources from military/history artists, open at your own risk.
+- WARNING! Some of these artists may have NSFW art on their pages though for the most part I took my sources from military/history artists, open at your own risk :)
 
 - This list isn't complete, please contact me in case that you find a problem with this list.
 
@@ -426,3 +428,39 @@ Sour: https://www.pixiv.net/en/users/5414630
 シロサト: https://www.pixiv.net/en/users/358646
 
 ばけねこ: https://twitter.com/painter_knife
+
+蒼原さん: https://www.pixiv.net/en/users/199136
+
+Erebus: https://www.pixiv.net/en/users/5163715
+
+駄作: https://www.pixiv.net/en/users/414224
+
+conoha: https://www.pixiv.net/en/users/175319
+
+ktl.: https://www.pixiv.net/en/users/140845
+
+Sergius C. Yoh: https://www.pixiv.net/en/users/1979743 
+
+sato-military: https://www.pixiv.net/en/users/4817045
+
+アバンドン蘭花: https://www.pixiv.net/en/users/1472125
+
+249: https://www.pixiv.net/en/users/3563402
+
+菊月: https://www.pixiv.net/en/users/429883
+
+LC: https://www.pixiv.net/en/users/84280673
+
+Starch/Amirum: https://www.pixiv.net/en/users/14757465
+
+yui: https://www.pixiv.net/en/users/812610
+
+ごくう: https://www.pixiv.net/en/users/4006924
+
+※Kome: https://www.pixiv.net/en/users/42351
+
+蘇曉林的朋友很少: https://www.pixiv.net/en/users/29820294
+
+Garuku: https://www.pixiv.net/en/users/792198
+
+そらお: https://www.pixiv.net/en/users/3191304
