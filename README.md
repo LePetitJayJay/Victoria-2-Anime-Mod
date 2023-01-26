@@ -12,6 +12,8 @@ For GFM, HFM, HPM, and Vanilla, turn on the corresponding patches as well when l
 
 New additions are standalone DoD and AoE versions, so you only need to run the mod + the corresponding anime submod for these two, e.g. Divergences of Darkness + DoD Animega.
 
+AoE anime flags and more DoD flags might be added in future update.
+
 Installation: Put the Animega folders and .Mod file to your mod directory on Program Files.
 
 Note:
@@ -464,3 +466,5 @@ yui: https://www.pixiv.net/en/users/812610
 Garuku: https://www.pixiv.net/en/users/792198
 
 そらお: https://www.pixiv.net/en/users/3191304
+
+丷雨丷歌丷: https://www.pixiv.net/en/users/11805161
