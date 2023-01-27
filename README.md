@@ -470,3 +470,5 @@ Garuku: https://www.pixiv.net/en/users/792198
 丷雨丷歌丷: https://www.pixiv.net/en/users/11805161
 
 灼烂DX歼鬼: https://www.pixiv.net/en/users/20460485
+
+47AgDragon(しるどら: https://www.pixiv.net/en/users/5633
