@@ -472,3 +472,7 @@ Garuku: https://www.pixiv.net/en/users/792198
 灼烂DX歼鬼: https://www.pixiv.net/en/users/20460485
 
 47AgDragon(しるどら: https://www.pixiv.net/en/users/5633
+
+でーぜる: https://www.pixiv.net/en/users/1673905
+
+山田ファクトリー: https://www.pixiv.net/en/users/157945
