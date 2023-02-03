@@ -476,3 +476,21 @@ Garuku: https://www.pixiv.net/en/users/792198
 でーぜる: https://www.pixiv.net/en/users/1673905
 
 山田ファクトリー: https://www.pixiv.net/en/users/157945
+
+RR@仕事募集中: https://www.pixiv.net/en/users/992911
+
+mmrailgun: https://www.pixiv.net/en/users/5206721
+
+GT: https://www.pixiv.net/en/users/4857455
+
+tomoboshi: https://www.pixiv.net/en/users/3624756
+
+Project Ferrum: https://www.pixiv.net/en/users/27389505
+
+悟澄: https://www.pixiv.net/en/users/301187
+
+うにてんてん: https://www.pixiv.net/en/users/525724
+
+itoji: https://www.pixiv.net/en/users/10776
+
+keno: https://www.pixiv.net/en/users/49003
