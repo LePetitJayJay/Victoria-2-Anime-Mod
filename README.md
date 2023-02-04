@@ -494,3 +494,7 @@ Project Ferrum: https://www.pixiv.net/en/users/27389505
 itoji: https://www.pixiv.net/en/users/10776
 
 keno: https://www.pixiv.net/en/users/49003
+
+たしかに～～: https://www.pixiv.net/en/users/27262522
+
+ゑるとりうむ: https://www.pixiv.net/en/users/5788145
