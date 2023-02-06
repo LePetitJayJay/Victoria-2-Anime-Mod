@@ -6,13 +6,15 @@ With the latest major update nearly all nations should have a waifu flag.
 
 There are several parts to this mod, Animega flags should work with GFM, (cc)HFM, HMPS, HPM, and Vanilla. GFM flags will be updated again when their colonial flags rework is done.
 
-The Anime leaders (+loading screen) should work with Vanilla, HPM, HFM, GFM, and TGC.
+The Anime leaders should work with Vanilla, HPM, HFM, GFM, and TGC.
 
 For GFM, HFM, HPM, and Vanilla, turn on the corresponding patches as well when launching the Animega flags so that all flags appear correctly.
 
+There are also anime loading screens inside the patch folders for HFM, HPM, and Vanilla.
+
 New additions are standalone DoD and AoE versions, so you only need to run the mod + the corresponding anime submod for these two, e.g. Divergences of Darkness + DoD Animega.
 
-AoE anime flags and more DoD flags might be added in future update.
+AoE anime flags and more DoD flags might be added in future update. TGC and ToL versions might be added as well in the future.
 
 Installation: Put the Animega folders and .Mod file to your mod directory on Program Files.
 
@@ -500,3 +502,7 @@ keno: https://www.pixiv.net/en/users/49003
 ゑるとりうむ: https://www.pixiv.net/en/users/5788145
 
 のーまん: https://www.pixiv.net/en/users/28647059
+
+モンブラン☆d.m.d: https://www.pixiv.net/en/users/5849868
+
+すずしろ: https://www.pixiv.net/en/users/3069527
