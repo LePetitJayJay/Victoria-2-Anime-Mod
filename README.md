@@ -1,6 +1,6 @@
 # Vicky-2-Anime-Mod
 
-v2.2
+v2.3
 
 With the latest major update nearly all nations should have a waifu flag.
 
@@ -31,9 +31,15 @@ e.g. for HPM you will need to tick the Animega flags and HPM flag patch so that 
 
 5. If you wish to return to default flags, delete the flags folder on Documents if you want to reset the flag cache. 
 
-6. GFM Animega flags is NOT compatible with GFM Dynamic Nations submod
+6. GFM Animega flags is NOT compatible with GFM Dynamic Nations submod (DN is dead in GFM btw)
 
-7. For Animega flags, it's recommended to use big frame submod for better visibility: https://www.moddb.com/games/victoria-2-heart-of-darkness/addons/big-flag-frames-for-victoria-2-304-and-hpm (working fine tho it may screw up your religion column on pop tab)
+7. Hasen8930's big flag frames has been integrated to the leader part of the main mod and DoD version
+
+8. DoD and AoE versions are standalone, you only need to run the mod + the corresponding anime submod for these two, e.g. Divergences of Darkness + DoD Animega.
+
+9. New Anime Menu Screen is added
+
+10. Anime icons for certain decisions and events have been added, thanks to Yoga5631, you can check his mod here: Victoria 2: Hearts Of Anime mod https://www.moddb.com/mods/victoria-2-hearts-of-anime
 
 For questions I'm available on the modding server (https://discord.gg/EbY7qaA) or anime backlog server (https://discord.gg/wcsEXYDs5M)
 
@@ -49,8 +55,11 @@ Base HFM github: https://github.com/SighPie/HFM
 
 HFM More Stuff: https://pastebin.com/0WyUJ6cB
 
+Victoria 2: Hearts Of Anime mod https://www.moddb.com/mods/victoria-2-hearts-of-anime
+
 # CREDITS
 
+Special thanks to Hasen8930 for the big flag frames and Yoga5631 for the anime icons for decisions and events.
 Arts used for the loading screen:
 
 https://www.pixiv.net/en/artworks/70957104
@@ -64,6 +73,8 @@ https://www.pixiv.net/en/artworks/78261691
 https://www.pixiv.net/en/artworks/71595139
 
 https://www.pixiv.net/en/artworks/82148110
+
+Menu Screen: https://www.pixiv.net/en/artworks/105702314
 
 Our thanks to the following artists (and more that I didn't manage to find the source of) for supplying the source of the most beautiful waifus for this mod!
 
@@ -506,3 +517,7 @@ keno: https://www.pixiv.net/en/users/49003
 モンブラン☆d.m.d: https://www.pixiv.net/en/users/5849868
 
 すずしろ: https://www.pixiv.net/en/users/3069527
+
+シエラ: https://www.pixiv.net/en/users/2948941
+
+SHOパイソン: https://www.pixiv.net/en/users/10345824
