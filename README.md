@@ -2,19 +2,21 @@
 
 v2.3
 
-With the latest major update nearly all nations should have a waifu flag.
+With the latest major update nearly all nations should have a waifu flag. The flags should now work again in GFM.
 
 There are several parts to this mod, Animega flags should work with GFM, (cc)HFM, HMPS, HPM, and Vanilla. GFM flags will be updated again when their colonial flags rework is done.
 
-The Anime leaders should work with Vanilla, HPM, HFM, GFM, and TGC.
+The Anime leaders should work with Vanilla, HPM, HFM, and GFM
 
 For GFM, HFM, HPM, and Vanilla, turn on the corresponding patches as well when launching the Animega flags so that all flags appear correctly.
 
 There are also anime loading screens inside the patch folders for HFM, HPM, and Vanilla.
 
-New additions are standalone DoD and AoE versions, so you only need to run the mod + the corresponding anime submod for these two, e.g. Divergences of Darkness + DoD Animega.
+DoD and AoE versions are standalone, you only need to run the mod + the corresponding anime submod for these two, e.g. Divergences of Darkness + DoD Animega.
 
-AoE anime flags and more DoD flags might be added in future update. TGC and ToL versions might be added as well in the future.
+I have plans for a standalone TGC version but it's still WIP atm.
+
+AoE anime flags and more DoD flags might be added in future update. ToL version might be added as well in the future.
 
 Installation: Put the Animega folders and .Mod file to your mod directory on Program Files.
 
@@ -31,11 +33,9 @@ e.g. for HPM you will need to tick the Animega flags and HPM flag patch so that 
 
 5. If you wish to return to default flags, delete the flags folder on Documents if you want to reset the flag cache. 
 
-6. GFM Animega flags is NOT compatible with GFM Dynamic Nations submod (DN is dead in GFM btw)
+6. Hasen8930's big flag frames has been integrated to the leader part of the main mod and DoD version
 
-7. Hasen8930's big flag frames has been integrated to the leader part of the main mod and DoD version
-
-8. DoD and AoE versions are standalone, you only need to run the mod + the corresponding anime submod for these two, e.g. Divergences of Darkness + DoD Animega.
+7. DoD, AoE, and TGC versions are standalone, you only need to run the mod + the corresponding anime submod for these two, e.g. Divergences of Darkness + DoD Animega.
 
 9. New Anime Menu Screen is added
 
@@ -56,6 +56,8 @@ Base HFM github: https://github.com/SighPie/HFM
 HFM More Stuff: https://pastebin.com/0WyUJ6cB
 
 Victoria 2: Hearts Of Anime mod https://www.moddb.com/mods/victoria-2-hearts-of-anime
+
+TGC: https://github.com/The-Grand-Combination/The-Grand-Combo
 
 # CREDITS
 
@@ -521,3 +523,53 @@ keno: https://www.pixiv.net/en/users/49003
 シエラ: https://www.pixiv.net/en/users/2948941
 
 SHOパイソン: https://www.pixiv.net/en/users/10345824
+
+Para: https://www.pixiv.net/en/users/25490694
+
+唐墨: https://x.com/karasumi742_g/
+
+ANYAN: https://x.com/jk100687
+
+Ж: https://www.pixiv.net/en/users/7541
+
+ねこみんと: https://www.pixiv.net/en/users/1698462
+
+冬空実: https://www.pixiv.net/en/users/572184
+
+瑞伯里德: https://www.pixiv.net/en/users/25839891
+
+Gulyás: https://www.pixiv.net/en/users/28690933 
+
+國光: https://www.pixiv.net/en/users/581835
+
+騎羅: https://www.pixiv.net/en/users/3728
+
+まじゅぬーん: https://www.pixiv.net/en/users/94361072
+
+すりーぴー: https://www.pixiv.net/en/users/4226771
+
+ideolo＠日曜東Ｈ38ab: https://www.pixiv.net/en/users/61513
+
+dairi: https://www.pixiv.net/en/users/4920496
+
+Udlrm: https://www.pixiv.net/en/users/58465605
+
+salvere: https://www.pixiv.net/en/users/14459974
+
+もしょもしょ: https://www.pixiv.net/en/users/12962
+
+Tt.梅梗（うめきょう）: https://www.pixiv.net/en/users/93257
+
+杏智そま: https://www.pixiv.net/en/users/19915321
+
+苦力怕小夜灯: https://www.pixiv.net/en/users/79228222
+
+桜志真あき: https://www.pixiv.net/en/users/68290
+
+呼罗珊人形: https://www.pixiv.net/en/users/18846990
+
+moGU: https://www.pixiv.net/en/users/1012580
+
+丁ｕｎ: https://www.pixiv.net/en/users/63205
+
+蓑麦: https://www.pixiv.net/en/users/480879
