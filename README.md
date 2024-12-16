@@ -10,7 +10,7 @@ The Anime leaders should work with Vanilla, HPM, HFM, and GFM
 
 For GFM, HFM, HPM, and Vanilla, turn on the corresponding patches as well when launching the Animega flags so that all flags appear correctly.
 
-There are also anime loading screens inside the patch folders for HFM, HPM, and Vanilla.
+There are also anime loading screen integrated to the anime leaders folder.
 
 DoD and AoE versions are standalone, you only need to run the mod + the corresponding anime submod for these two, e.g. Divergences of Darkness + DoD Animega.
 
