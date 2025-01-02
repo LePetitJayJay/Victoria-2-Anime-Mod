@@ -621,3 +621,19 @@ Gu-Chi: https://www.pixiv.net/en/users/5197
 ワンチェン: https://www.pixiv.net/en/users/49354
 
 よベル: https://www.pixiv.net/en/users/2739012
+
+覺醒: https://www.pixiv.net/en/users/838019
+
+kobuta: https://www.pixiv.net/en/users/4686651
+
+令和製鋼所: https://www.pixiv.net/en/users/80126258
+
+槇トモヱ: https://www.pixiv.net/en/users/198415
+
+一ノ瀬ゆかり: https://www.pixiv.net/en/users/210689
+
+湯豆腐: https://www.pixiv.net/en/users/2759979
+
+ねこまんま: https://www.pixiv.net/en/users/8016
+
+Naoshinerka: https://www.pinterest.com/naoshinerka/
