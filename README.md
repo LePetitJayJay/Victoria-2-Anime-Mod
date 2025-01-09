@@ -637,3 +637,11 @@ kobuta: https://www.pixiv.net/en/users/4686651
 ねこまんま: https://www.pixiv.net/en/users/8016
 
 Naoshinerka: https://www.pinterest.com/naoshinerka/
+
+桐田アサミ: https://www.pixiv.net/en/users/866
+
+BaROQUE: https://www.pixiv.net/en/artworks/25866722
+
+うなさか: https://www.pixiv.net/en/artworks/59243391
+
+1009: https://www.pixiv.net/en/users/4187
