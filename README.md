@@ -21,25 +21,25 @@ AoE anime flags and more DoD flags might be added in future update. ToL version 
 Installation: Put the Animega folders and .Mod file to your mod directory on Program Files.
 
 Note:
-1. There are now two main parts of the mod, anime leaders and anime flags. the Animega leader converts all leader portraits to anime and also adds anime loading screen and pop interface (will be added soon).
+1. There are now two main parts of the mod, anime leaders and anime flags. the Animega leader converts all leader portraits to anime while the flag part overrides default flag with waifu flags and adjusted the UI to show larger flags.
 
-2. The Animega leader can be compatible with any mod, you can edit the .mod folder to make it compatible with more mods.
+2. The Animega leader part could theoretically be made compatible with any mod, you just have to edit the .mod file's dependencies to the corresponding mod.
  
-3. The Animega flags will turn all flags to waifu flags, to use this mod delete gfx folder on Documents before launching this submod.
+3. To use the Animega flags part, delete gfx folder on Documents before launching this submod. It contains various flags that are used in Vanilla, HPM, HFM, and GFM.
 
-4. There are flag patches for Vanilla, HPM, HFM, and GFM because each one use differing flags and tags for several countries. 
+4. There are flag patches for Vanilla, HPM, HFM, and GFM because each one use differing flags and tags for certain countries. 
 Tick on the main Animega flag mod and the corresponding patches when launching so as to prevent flags showing wrongly,
-e.g. for HPM you will need to tick the Animega flags and HPM flag patch so that the flags will show correctly ingame.
+e.g. for HPM you will need to tick the Animega flags and HPM flag patch to get the correct flags ingame.
 
-5. If you wish to return to default flags, delete the flags folder on Documents if you want to reset the flag cache. 
+5. If you wish to return to default flags, delete the flags folder on Documents if you want to reset the flag cache.
 
-6. Hasen8930's big flag frames has been integrated to the leader part of the main mod and DoD version
+6. Hasen8930's big flag frames has been integrated to the main mod and the DoD version
 
-7. DoD, AoE, and TGC versions are standalone, you only need to run the mod + the corresponding anime submod for these two, e.g. Divergences of Darkness + DoD Animega.
+7. DoD (HPM), AoE, and TGC versions are standalone, you only need to run the mod + the corresponding anime submod here, e.g. Divergences of Darkness (HPM) + DoD Animega.
 
-9. New Anime Menu Screen is added
+8. New Anime Menu Screen has been added
 
-10. Anime icons for certain decisions and events have been added, thanks to Yoga5631, you can check his mod here: Victoria 2: Hearts Of Anime mod https://www.moddb.com/mods/victoria-2-hearts-of-anime
+9. Anime icons for certain decisions and events have been added thanks to Yoga5631, you can check his own anime mod here: Victoria 2: Hearts Of Anime mod https://www.moddb.com/mods/victoria-2-hearts-of-anime
 
 For questions I'm available on the modding server (https://discord.gg/EbY7qaA) or anime backlog server (https://discord.gg/wcsEXYDs5M)
 
@@ -61,7 +61,7 @@ TGC: https://github.com/The-Grand-Combination/The-Grand-Combo
 
 # CREDITS
 
-Special thanks to Hasen8930 for the big flag frames and Yoga5631 for the anime icons for decisions and events.
+Special thanks to Hasen8930 for the big flag frames and Yoga5631 for the anime decision and event icons.
 Arts used for the loading screen:
 
 https://www.pixiv.net/en/artworks/70957104
