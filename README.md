@@ -645,3 +645,11 @@ BaROQUE: https://www.pixiv.net/en/artworks/25866722
 うなさか: https://www.pixiv.net/en/artworks/59243391
 
 1009: https://www.pixiv.net/en/users/4187
+
+ルナクル: https://www.pixiv.net/en/users/15657814
+
+Helga Ulrich: https://www.pixiv.net/en/users/38084166
+
+Savankov: https://www.pixiv.net/en/users/33565509
+
+皇宋天子: https://www.pixiv.net/en/users/19191487
