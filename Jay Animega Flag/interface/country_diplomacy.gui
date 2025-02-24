@@ -817,7 +817,7 @@ guiTypes = {
 				}
 				instantTextBoxType = {
 					name = "selected_rank_label"
-					position = { x = 269 y = 89 }
+					position = { x = 269y = 89 }
 					textureFile = ""
 					font = "vic_18"
 					borderSize = {x = 0 y = 4}
@@ -1098,7 +1098,7 @@ guiTypes = {
 			
 			OverlappingElementsBoxType = {
 				name = "country_wars"
-				position = { x = 217 y = 258 }
+				position = { x = 217 y = 267 }
 				size = { x=134 y= 32 }
 				Orientation = "UPPER_LEFT"
 				format = left
@@ -1107,7 +1107,7 @@ guiTypes = {
 			
 			instantTextBoxType = { 
 				name = "country_wars_text"
-				position = { x = 130 y = 257 }
+				position = { x = 130 y = 267 }
 				font = "vic_18_black"
 				text = "DIPLOMACY_AT_WAR_WITH"	
 				maxWidth = 90
@@ -1117,7 +1117,7 @@ guiTypes = {
 			
 			OverlappingElementsBoxType = {
 				name = "country_allies"
-				position = { x = 217 y = 278 }
+				position = { x = 217 y = 287 }
 				size = { x=134 y= 32 }
 				Orientation = "UPPER_LEFT"
 				format = left
@@ -1126,7 +1126,7 @@ guiTypes = {
 			
 			instantTextBoxType = { 
 				name = "country_allies_text"
-				position = { x = 130 y = 277 }
+				position = { x = 130 y = 287 }
 				font = "vic_18_black"
 				text = "DIPLOMACY_ALLIES"	
 				maxWidth = 90
@@ -1136,7 +1136,7 @@ guiTypes = {
 			
 			OverlappingElementsBoxType = {
 				name = "country_protected"
-				position = { x = 217 y = 298 }
+				position = { x = 217 y = 307 }
 				size = { x=134 y= 32 }
 				Orientation = "UPPER_LEFT"
 				format = left
@@ -1145,7 +1145,7 @@ guiTypes = {
 			
 			instantTextBoxType = { 
 				name = "country_protected_text"
-				position = { x = 130 y = 297 }
+				position = { x = 130 y = 307 }
 				font = "vic_18_black"
 				text = "DIPLOMACY_PROTECTED"	
 				maxWidth = 90
@@ -1155,7 +1155,7 @@ guiTypes = {
 
 			OverlappingElementsBoxType = {
 				name = "country_truce"
-				position = { x = 217 y = 318 }
+				position = { x = 217 y = 327 }
 				size = { x=134 y= 32 }
 				Orientation = "UPPER_LEFT"
 				format = left
@@ -1164,7 +1164,7 @@ guiTypes = {
 			
 			instantTextBoxType = { 
 				name = "country_truce_text"
-				position = { x = 130 y = 317 }
+				position = { x = 130 y = 327 }
 				font = "vic_18_black"
 				text = "DIPLOMACY_TRUCE_WITH"	
 				maxWidth = 90
@@ -1174,7 +1174,7 @@ guiTypes = {
 			
 			OverlappingElementsBoxType = {
 				name = "country_cb"
-				position = { x = 217 y = 334 }
+				position = { x = 217 y = 343 }
 				size = { x=134 y= 32 }
 				Orientation = "UPPER_LEFT"
 				format = left
@@ -1183,7 +1183,7 @@ guiTypes = {
 			
 			instantTextBoxType = { 
 				name = "country_cb_text"
-				position = { x = 130 y = 337 }
+				position = { x = 130 y = 347 }
 				font = "vic_18_black"
 				text = "DIPLOMACY_CASUSBELLIS"	
 				maxWidth = 90
@@ -1194,34 +1194,34 @@ guiTypes = {
 			iconType = {
 				name ="infamy_icon"
 				spriteType = "GFX_diplo_infamy_icon"
-				position = { x= 46 y = 250 }
+				position = { x= 46 y = 259 }
 				Orientation = "UPPER_LEFT"
 			}
 				
 			iconType = {
 				name ="warexhastion_icon"
 				spriteType = "GFX_diplo_we_icon"
-				position = { x= 46 y = 277 }
+				position = { x= 46 y = 286 }
 				Orientation = "UPPER_LEFT"
 			}
 			
 			iconType = {
 				name ="brigade_icon"
 				spriteType = "GFX_topbar_army_opaque"
-				position = { x= 45 y = 304 }
+				position = { x= 45 y = 313 }
 				Orientation = "UPPER_LEFT"
 			}
 			
 			iconType = {
 				name ="ships_icon"
 				spriteType = "GFX_topbar_navy_opaque"
-				position = { x= 43 y = 331 }
+				position = { x= 43 y = 340 }
 				Orientation = "UPPER_LEFT"
 			}	
 
 			instantTextBoxType = { 
 				name = "infamy_text"
-				position = { x= 75 y = 257 }
+				position = { x= 75 y = 266 }
 				font = "vic_18_black"
 				text = " "	
 				maxWidth = 40
@@ -1230,7 +1230,7 @@ guiTypes = {
 			
 			instantTextBoxType = { 
 				name = "warexhastion_text"
-				position = { x= 75 y = 284 }
+				position = { x= 75 y = 293 }
 				font = "vic_18_black"
 				text = " "	
 				maxWidth = 40
@@ -1239,7 +1239,7 @@ guiTypes = {
 			
 			instantTextBoxType = { 
 				name = "brigade_text"
-				position = { x= 75 y = 311 }
+				position = { x= 75 y = 320 }
 				font = "vic_18_black"
 				text = " "	
 				maxWidth = 40
@@ -1248,7 +1248,7 @@ guiTypes = {
 			
 			instantTextBoxType = { 
 				name = "ships_text"
-				position = { x= 75 y = 338 }
+				position = { x= 75 y = 347 }
 				font = "vic_18_black"
 				text = " "	
 				maxWidth = 40
@@ -1257,7 +1257,7 @@ guiTypes = {
 			
 			OverlappingElementsBoxType = {
 				name = "current_wargoals"
-				position = { x= 44 y = 232 }
+				position = { x= 44 y = 234 }
 				size = { x=180 y= 32 }
 				Orientation = "UPPER_LEFT"
 				format = left
